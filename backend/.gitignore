@@ -1,0 +1,7 @@
+# Dépendance
+node_modules/
+
+# Environnement et Sécurité (Super Important)
+.env
+.env.local
+.env.production
